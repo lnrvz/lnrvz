@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @lnrvz
 - 👀 I’m interested in hunting/coding
-- 🌱 I’m currently learning UNO
+- 🌱 I’m currently learning a lot 
 - 💞️ I’m looking to collaborate on alphas
 - 📫 How to reach me @lnrvz on X
-- 😄 Pronouns: lul
-- ⚡ Fun fact: Lambo ou cave
+- 😄 Pronouns: moon/ish
+- ⚡ Fun fact: LorC
 
 <!---
 lnrvz/lnrvz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
